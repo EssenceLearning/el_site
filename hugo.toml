@@ -10,8 +10,6 @@ languageCode = "en-us"
     defaultContentLanguage = "en"
     contactName = "Name1"
 
-
-
 # Enable comments by entering your Disqus shortname
 disqusShortname = "essencelearningwp"
 # Enable Google Analytics by entering your tracking code
