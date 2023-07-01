@@ -1,0 +1,52 @@
+/* your styles go here */
+.testimonials .item .testimonial .name-picture {
+  float: right;
+  width: 80%;
+  text-align: right;
+}
+.testimonials .item .testimonial .name-picture h5 {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+.testimonials .item .testimonial .name-picture p {
+  color: #999999;
+  margin: 0;
+  font-size: 12px;
+}
+.testimonials .item .testimonial .name-picture img {
+  float: right;
+  width: 80px;
+  border-radius: 40px;
+  margin-left: 10px;
+}
+
+.anchor{
+    position: relative;
+    top: -140px;
+}
+
+.home-carousel h1 {
+  font-weight: 400;
+}
+
+.el-contact-form {
+  @include .contact-form;
+}
+
+.el-partner-item{
+    align: center;
+}
+
+.jux-logo {
+    width: 230px;
+    height: 100px;
+    align: center;
+}
+
+.introcourse img {
+    float: right;
+    width: 80px;
+    border-radius: 40px;
+    margin-left: 10px;
+}

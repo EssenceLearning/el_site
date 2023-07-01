@@ -1,0 +1,55 @@
+{{ if isset .Site.Params "carousel" }}
+{{ if .Site.Params.carousel.enable }}
+{{ if gt (len .Site.Data.carousel) 0 }}
+
+<div id="myModal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Introductory course</h5>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                Interested in Pilot Training! 
+                <a href="/introcourse" target="_blank"><p>Click here to know more</p></a><br>
+                or fill the form below to schedule a callback!
+
+                {{ partial "contactForm.html" . }}
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<section>
+    <a href="https://essencelearning.teachee.com/study/center/store/detail?id=7098" target="_blank">
+        <div style="text-align:center;color:white;vertical-align: top;font-size: larger;background-color: deepskyblue;">
+            JOIN OUR ONLINE COURSE!
+        </div>
+    </a>
+    <div class="home-carousel">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-carousel">
+                {{ range sort .Site.Data.carousel "weight" }}
+                <div class="item">
+                    <div class="row">
+                        <div class="col-sm-5 right">
+                            <h2>{{ .title }}</h2>
+                            {{ .description | safeHTML }}
+                        </div>
+                        <div class="col-sm-7">
+                            <img class="img-responsive" src="{{ .image }}" alt="">
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

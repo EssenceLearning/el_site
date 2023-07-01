@@ -1,0 +1,42 @@
+{{ if isset .Site.Params "team" }}
+{{ if .Site.Params.team.enable }}
+{{ if gt (len .Site.Data.team) 0 }}
+<section class="bar background-white no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.team.title }}</h2>
+                </div>
+
+                <p class="lead">
+                  {{ .Site.Params.team.subtitle }}
+                </p>
+
+                <ul class="owl-carousel customers">
+                    {{ range .Site.Data.team }}
+                    <li class="item" title="{{ .name }}">
+                        {{ if .url }}
+                          <a href="{{ .url }}">
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          </a>
+                        {{ else }}
+                          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                        {{ end }}
+
+                        <div class="name-picture">
+                            <h5>{{ .name }}</h5>
+                            <p>{{ .position }}</p>
+                        </div>
+
+                    </li>
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
