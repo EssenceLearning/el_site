@@ -2,31 +2,11 @@
 {{ if .Site.Params.carousel.enable }}
 {{ if gt (len .Site.Data.carousel) 0 }}
 
-<div id="myModal" class="modal fade">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Introductory course</h5>
-                <button type="button" class="close" data-dismiss="modal">&times;</button>
-            </div>
-            <div class="modal-body">
-                Interested in Pilot Training! 
-                <a href="/introcourse" target="_blank"><p>Click here to know more</p></a><br>
-                or fill the form below to schedule a callback!
-
-                {{ partial "contactForm.html" . }}
-
-            </div>
-        </div>
-    </div>
-</div>
-
-
 
 <section>
-    <a href="https://essencelearning.teachee.com/study/center/store/detail?id=7098" target="_blank">
+    <a href="/contact/?type=intro_course&source=home">
         <div style="text-align:center;color:white;vertical-align: top;font-size: larger;background-color: deepskyblue;">
-            JOIN OUR ONLINE COURSE!
+            Click here to enquire about Pilot Training Course
         </div>
     </a>
     <div class="home-carousel">

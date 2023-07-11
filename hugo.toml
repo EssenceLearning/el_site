@@ -35,7 +35,20 @@ paginate = 10
 [[menu.main]]
     name = "Courses"
     url  = "/courses/"
+    identifier = "menu.courses"
     weight = 3
+
+[[menu.main]]
+    name = "Regular Courses"
+    url  = "/courses/"
+    weight = 1
+    parent = "menu.courses"
+
+[[menu.main]]
+    name = "Introductory Pilot Course"
+    url  = "/introcourse/"
+    weight = 2
+    parent = "menu.courses"    
 
 [[menu.main]]
     name = "Team"
