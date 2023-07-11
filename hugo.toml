@@ -126,6 +126,8 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/el/ELLogoJuly2023.jpg"
+    logo_small = "img/el/ELLogoJuly2023.jpg"
+    
     address = """<p><strong>Essence Learning</strong>
     <br>One Co.Work
     <br>2/3, 2nd Floor, 80 Feet Road, Barleyz Junction
