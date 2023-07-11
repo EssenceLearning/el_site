@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "www.essencelearning.in"
 title = "Essence Learning"
 theme = "hugo-universal-theme"
 
@@ -125,7 +125,7 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/el/ELNewLogo2.png"
+    logo = "img/el/ELLogoJuly2023.jpg"
     address = """<p><strong>Essence Learning</strong>
     <br>One Co.Work
     <br>2/3, 2nd Floor, 80 Feet Road, Barleyz Junction
