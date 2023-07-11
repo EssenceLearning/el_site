@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Essence Learning</title>
-    <link>www.essencelearning.in/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Essence Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jul 2013 08:37:37 +0000</lastBuildDate><atom:link href="www.essencelearning.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2013 08:37:37 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>requirements</title>
-      <link>www.essencelearning.in/categories/requirements/</link>
+      <link>/categories/requirements/</link>
       <pubDate>Mon, 15 Jul 2013 08:37:37 +0000</pubDate>
       
-      <guid>www.essencelearning.in/categories/requirements/</guid>
+      <guid>/categories/requirements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>duty</title>
-      <link>www.essencelearning.in/categories/duty/</link>
+      <link>/categories/duty/</link>
       <pubDate>Sun, 22 Apr 2012 11:13:25 +0000</pubDate>
       
-      <guid>www.essencelearning.in/categories/duty/</guid>
+      <guid>/categories/duty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hospitality</title>
-      <link>www.essencelearning.in/categories/hospitality/</link>
+      <link>/categories/hospitality/</link>
       <pubDate>Fri, 16 Dec 2011 13:01:33 +0000</pubDate>
       
-      <guid>www.essencelearning.in/categories/hospitality/</guid>
+      <guid>/categories/hospitality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aviation</title>
-      <link>www.essencelearning.in/categories/aviation/</link>
+      <link>/categories/aviation/</link>
       <pubDate>Sat, 12 Nov 2011 09:38:51 +0000</pubDate>
       
-      <guid>www.essencelearning.in/categories/aviation/</guid>
+      <guid>/categories/aviation/</guid>
       <description></description>
     </item>
     

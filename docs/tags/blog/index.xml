@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Essence Learning</title>
-    <link>www.essencelearning.in/tags/blog/</link>
+    <link>/tags/blog/</link>
     <description>Recent content in blog on Essence Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jul 2013 08:37:37 +0000</lastBuildDate><atom:link href="www.essencelearning.in/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2013 08:37:37 +0000</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reference Height Chart</title>
-      <link>www.essencelearning.in/blog/2013/07/15/height-chart/</link>
+      <link>/blog/2013/07/15/height-chart/</link>
       <pubDate>Mon, 15 Jul 2013 08:37:37 +0000</pubDate>
       
-      <guid>www.essencelearning.in/blog/2013/07/15/height-chart/</guid>
+      <guid>/blog/2013/07/15/height-chart/</guid>
       <description>Feet/Inches -&amp;gt; Centimeters 4 feet 6 inches - 137 cm
 4 feet 7 inches - 140 cm
 4 feet 8 inches - 142 cm
@@ -27,10 +27,10 @@
     
     <item>
       <title>Medical Assessment</title>
-      <link>www.essencelearning.in/blog/2012/06/20/medical-assessment/</link>
+      <link>/blog/2012/06/20/medical-assessment/</link>
       <pubDate>Wed, 20 Jun 2012 06:20:51 +0000</pubDate>
       
-      <guid>www.essencelearning.in/blog/2012/06/20/medical-assessment/</guid>
+      <guid>/blog/2012/06/20/medical-assessment/</guid>
       <description>CLASS-II MEDICAL ASSESSMENT ( Applicable to Cabin Crew and Airport Ground Staff). Few of the same tests are also applicable for Hotel Staff. These requirements are applicable for initial and renewal medical examinations of Personnel holding PPL, SPL, GPL, Free Balloon Pilots, Flight Radio Telephone Operators. Ultra Light Aircraft Operators and Cabin Crew Attendants.
 Once a Candidate clears all the interview rounds, these medical tests are advised and upon its clearance you become a proud employee.</description>
     </item>
