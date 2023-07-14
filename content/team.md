@@ -84,9 +84,9 @@ keywords = ["team", "faculty", "guru"]
 ### Vijay Kumar
 
 > Vijay Kumar is an industry veteran and comes with 30+ years of rich work experience. His spectrum of experience ranges from estimating the cost of Heat Exchangers from blue prints, to selling Sulphur recovery Units to Instructional designing, to Selling World Book Encyclopedias to families to managing projects to heading operations as Sr. VP. In his long journey he also successfully shouldered theresponsibility of a Quality Head as a “Management Representative” where he improved the CustomerSatisfaction Index through tough, meticulous and diligent quality standards. He has held team size of upto 1350 people at the peak of his career. He is passionate about inclusive leadership and building highly effective and successful teams. He has implemented unique team building ideas like – “Book Review Club”, “Fun Friday”, “Speak-Up” etc.
-
+>
 > Vijay holds an Engineering degree and has a Masters degree in Marketing. During the course of his employment he has completed his Green Belt in Six Sigma from General Electric and Project Management Professional (PMP) from PMI, Pennsylvania. He also has completed a course from Dale Carnegie on “Train the Trainer”.
-
+>
 > He has handled customers from the US, UK, Australia and Sweden. His job has taken him to the US, London and Stockholm. He has presented papers at Washington and Chicago for the American Society for Training and Development (ASTD) in 2009 and 2010 along with Phil Jackson on “A Passage to India”.
 
 
@@ -103,7 +103,7 @@ keywords = ["team", "faculty", "guru"]
 
 ### Rakesh Radhakrishnan
 > Rakesh has over 5 years of experience in leadership coaching and soft skills development working with people from organizations like Rolls-Royce, Airbus, GE, Exxon Mobil. He has helped 1000+ people unlock their true potential through a process of self discovery and goal identification accounting to 10000+ training hours. Apart from this he has also helped comanies with six sigma black belt projects and process reengineering. 
-
+>
 > Rakesh helps our students in improving their soft skills and leadership potential leading to better opportunities for them. 	
 
 ------
