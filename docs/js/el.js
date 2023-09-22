@@ -16,7 +16,9 @@ $(document).ready(function () {
         // Submit the form using AJAX.
         $.ajax({
             type: 'POST',
-            url: 'https://script.google.com/a/macros/essencelearning.in/s/AKfycbxr11RqAvmEDjFSxd02uHM06OPj6tTDI5DBaM-VKAmvqVtg_SSCZbdiExN1hNk69G9Jqw/exec',
+            mode: "no-cors",
+            crossorigin: "anonymous",
+            url: 'https://script.google.com/macros/s/AKfycbx-mIMwN7XZ9D-l3pRBZR5TiduyUL3oVKOrTzTvQqo4HYhSEoWhzrQUaVVTLr5QVjTE5w/exec',
             data: $(form).serialize()
         }).done(function(response) {
             // Make sure that the formMessages div has the 'success' class.
