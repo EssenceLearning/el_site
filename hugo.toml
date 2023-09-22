@@ -66,6 +66,11 @@ paginate = 10
     url  = "/contact/"
     weight = 6
 
+[[menu.main]]
+    name = "Gallery"
+    url  = "/gallery/"
+    weight = 7    
+
 # Top bar social links menu
 
 [[menu.topbar]]
