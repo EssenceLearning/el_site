@@ -6,5 +6,5 @@ keywords = ["photo", "gallery","students","new"]
 
 ### Photo gallery
 
-{{< gallery dir="/album" />}}
+{{< gallery dir="album" />}}
 {{< load-photoswipe >}}
